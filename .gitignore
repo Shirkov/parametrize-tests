@@ -1,0 +1,10 @@
+venv/
+.idea/
+.pytest_cache/
+allureresult/
+*.pyc
+*.png
+settings/local.py
+allure-report/
+*.log
+.env

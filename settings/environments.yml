@@ -1,0 +1,53 @@
+prod:
+  mostro_pim:
+    host: ""
+    url: ""
+    login: ""
+    password: ""
+  search:
+    host: ""
+    url: ""
+    login: ""
+    password: ""
+    engine: ""
+  mostro_search_sync:
+    host: ""
+    url: ""
+    login: ""
+    password: ""
+  sync:
+    host: ""
+    url: ""
+    login: ""
+    password: ""
+  telegram:
+    bot_url: ""
+    token: ""
+    chat_id: ""
+
+dev:
+  mostro_pim:
+    host: ""
+    url: ""
+    login: ""
+    password: ""
+  search:
+    host: ""
+    url: ""
+    login: ""
+    password: ""
+    engine: ""
+  mostro_search_sync:
+    host: ""
+    url: ""
+    login: ""
+    password: ""
+  sync:
+    host: ""
+    url: ""
+    login: ""
+    password: ""
+  telegram:
+    bot_url: ""
+    token: ""
+    chat_id: ""
